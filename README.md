@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🐍 Learning Python
 
-<!--
-**kabsito/kabsito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Este es mi repositorio para aprender programación con **Python**.
+Aquí voy guardando mis primeros scripts, pruebas y avances.
 
-Here are some ideas to get you started:
+## 🚀 Proyectos actuales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente ninguno pero poco a poco ire creando mas proyectos, mientras iré aprendiendo.git
+
+## 🛠️ Herramientas utilizadas
+
+* **Lenguaje:** Python 3
+* **Editor:** Visual Studio Code
+* **Sistema:** Linux (Crostini) y Microsoft
+
+---
+*Hecho con mucha curiosidad por kabsito
