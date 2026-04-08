@@ -5,9 +5,9 @@ Aquí voy guardando mis primeros scripts, pruebas y avances.
 
 ## 🚀 Hoja de ruta
 
-1.Python: aprender con fluidez este lenguaje y permitir hacer grandes proyectos con el.
-2.C++: Una vez acabado de aprender python mi siguiente objetivo es seguir aprendiendo lenguajes para ampliar mi conocimiento, uno de los principales siendo C++
-3 Finalidad: mi objetivo final para este proyecto es ser capaz de desarrollar progamas capaces de crear encriptaciones o juegos.
+ 1.Python: aprender con fluidez este lenguaje y permitir hacer grandes proyectos con el.
+ 2.C++: Una vez acabado de aprender python mi siguiente objetivo es seguir aprendiendo lenguajes para ampliar mi conocimiento, uno de   los principales siendo C++
+ 3 Finalidad: mi objetivo final para este proyecto es ser capaz de desarrollar progamas capaces de crear encriptaciones o juegos.
 
 ## 🛠️ Herramientas utilizadas
 
